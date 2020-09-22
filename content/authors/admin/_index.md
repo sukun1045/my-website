@@ -1,15 +1,14 @@
 ---
 title: Kun Su
 role: PhD student in ECE
-avatar_filename: portrait.jpg
+avatar_filename: avatar.jpg
 organizations:
   - name: University of Washington-Seattle
     url: http://www.washington.edu/
 superuser: true
 authors:
   - admin
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include machine learning, computer vision, audio/music application, robotics.
 interests:
   - Machine Learning
   - computer vision
@@ -33,9 +32,6 @@ social:
     icon: linkedin
 education:
   courses:
-    - course: PhD in Electrical & Computer Engineering
-      institution: University of Washington-Seattle
-      year: ""
     - course: M.S. in Electrical & Computer Engineering
       institution: University of Washington-Seattle
       year: 2019
@@ -46,4 +42,4 @@ email: ""
 user_groups:
   - ""
 ---
-I am a second year PhD student of Electrical & Computer Engineering at the University of Washingon NeuroAI Lab advised by Prof. Eli Shlizerman. My research interests are broadly including machine learning, computer vision, audio/music application and robotics. I receive M.S. in ECE at UW in 2019. Prior to that, I received B.S. in Electrical Engineering and Computer System Engineering at Rensselaer Polytechnic Institute (RPI). During my undergrad, I did research with Prof. Wencen Wu on control and robotics.
+I am a second year PhD student of Electrical & Computer Engineering at the University of Washingon NeuroAI Lab advised by Prof. [Eli Shlizerman](http://faculty.washington.edu/shlizee/). My research interests are broadly including machine learning, computer vision, audio/music application and robotics. I received M.S. in ECE at UW in 2019. Prior to that, I received B.S. in Electrical Engineering and Computer System Engineering at Rensselaer Polytechnic Institute (RPI). During my undergrad, I did research with Prof. [Wencen Wu](https://sites.google.com/a/sjsu.edu/wencen-wu/home) on control and robotics.
