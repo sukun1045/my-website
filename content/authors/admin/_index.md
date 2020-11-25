@@ -8,7 +8,8 @@ organizations:
 superuser: true
 authors:
   - admin
-bio: My research interests include machine learning, computer vision, audio/music application, robotics.
+bio: My research interests include machine learning, computer vision,
+  audio/music application, robotics.
 interests:
   - Machine Learning
   - computer vision
@@ -42,7 +43,7 @@ email: ""
 user_groups:
   - ""
 ---
-I am a second year PhD student of Electrical & Computer Engineering at the University of Washingon NeuroAI Lab advised by Prof. [Eli Shlizerman](http://faculty.washington.edu/shlizee/). My research interests are broadly including machine learning, computer vision, audio/music application and robotics. I received M.S. in ECE at UW in 2019. Prior to that, I received B.S. in Electrical Engineering and Computer System Engineering at Rensselaer Polytechnic Institute (RPI). During my undergrad, I did research with Prof. [Wencen Wu](https://sites.google.com/a/sjsu.edu/wencen-wu/home) on control and robotics.
+I am a second year PhD student of Electrical & Computer Engineering at the University of Washington NeuroAI Lab advised by Prof. [Eli Shlizerman](http://faculty.washington.edu/shlizee/). My research interests are broadly including machine learning, computer vision, audio/music application and robotics. I received M.S. in ECE at UW in 2019. Prior to that, I received B.S. in Electrical Engineering and Computer System Engineering at Rensselaer Polytechnic Institute (RPI). During my undergrad, I did research with Prof. [Wencen Wu](https://sites.google.com/a/sjsu.edu/wencen-wu/home) on control and robotics.
 
 NEWS (Nov 2020): I am looking for an internship opportunity in Summer 2021. Feel free to check out my [CV](https://github.com/sukun1045/my-website/blob/master/content/authors/admin/Kun_Su_Resume.PDF) and directly contact me!
 
