@@ -14,7 +14,7 @@ publishDate: "2020-06-05T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *NeurIPS 2020*
@@ -32,6 +32,8 @@ featured: false
 links:
 - name: Project Page
   url: http://faculty.washington.edu/shlizee/audeo/
+- name: Code
+  url: https://github.com/shlizee/Audeo
 url_pdf: https://arxiv.org/pdf/2006.14348.pdf
 url_project: ''
 url_video: 'https://www.youtube.com/watch?v=8rS3VgjG7_c'
