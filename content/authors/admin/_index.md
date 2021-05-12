@@ -45,10 +45,10 @@ user_groups:
 ---
 I am a second-year Ph.D. student of Electrical & Computer Engineering at the University of Washington NeuroAI Lab advised by Prof. [Eli Shlizerman](http://faculty.washington.edu/shlizee/). My research interests are broadly including deep learning, computer vision, time series analysis, audio/music application, and robotics. I received M.S. in ECE at UW in 2019. Prior to that, I received a B.S. in Electrical Engineering and Computer System Engineering at Rensselaer Polytechnic Institute (RPI). During my undergrad, I did research with Prof. [Wencen Wu](https://sites.google.com/a/sjsu.edu/wencen-wu/home) on control and robotics.
 
+NEWS (May 2021): I will join Adobe as a Research Intern in Summer 2021!
+
 NEWS (Dec 2020): A new preprint paper [Multi-Instrumentalist Net: Unsupervised Generation of Music from Body
 Movements](https://arxiv.org/pdf/2012.03478.pdf)! Also check the [YouTube Video](https://www.youtube.com/watch?v=yo5OZKBbBh4) for more samples!
-
-NEWS (Nov 2020): I am looking for an **internship** opportunity in **Summer 2021**. Feel free to check out my CV and directly contact me!
 
 NEWS (Sep 2020): The paper [Audeo: Audio Generation for a Silent Performance Video](https://arxiv.org/pdf/2006.14348.pdf) has been accepted and it would appear in **NeurIPS 2020**!
 
