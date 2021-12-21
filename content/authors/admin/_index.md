@@ -45,7 +45,7 @@ user_groups:
 ---
 I am a third-year Ph.D. student of Electrical & Computer Engineering at the University of Washington NeuroAI Lab advised by Prof. [Eli Shlizerman](http://faculty.washington.edu/shlizee/). My research interests are broadly including deep learning, computer vision, time series analysis, audio/music application, and robotics. I received M.S. in ECE at UW in 2019. Prior to that, I received a B.S. in Electrical Engineering and Computer System Engineering at Rensselaer Polytechnic Institute (RPI). During my undergrad, I did research with Prof. [Wencen Wu](https://sites.google.com/a/sjsu.edu/wencen-wu/home) on control and robotics.
 
-NEWS (Sep 2021): The paper "How does it sound? Generation of Rhythmic Soundtrack for Human Movement Videos" has been accepted and it would appear in **NeurIPS 2021**!
+NEWS (Sep 2021): The paper [How does it sound? Generation of Rhythmic Soundtrack for Human Movement Videos](https://proceedings.neurips.cc/paper/2021/file/f4e369c0a468d3aeeda0593ba90b5e55-Paper.pdf) has been accepted and it would appear in **NeurIPS 2021**!
 
 NEWS (May 2021): I will join Adobe as a Research Intern in Summer 2021!
 
