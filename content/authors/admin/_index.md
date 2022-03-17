@@ -33,12 +33,15 @@ social:
     icon: linkedin
 education:
   courses:
+    - course: PhD in Electrical & Computer Engineering
+      institution: University of Washington-Seattle
+      year: 2019-Present
     - course: M.S. in Electrical & Computer Engineering
       institution: University of Washington-Seattle
-      year: 2019
+      year: 2017-2019
     - course: B.S. in Electrical Engineering
       institution: Rensselaer Polytechnic Institute
-      year: 2017
+      year: 2013-2017
 email: ""
 user_groups:
   - ""
