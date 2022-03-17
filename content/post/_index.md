@@ -1,14 +1,14 @@
 ---
-title: test
+title: Posts
+
+# View.
+#   1 = List
+#   2 = Compact
+#   3 = Card
 view: 2
+
+# Optional header image (relative to `static/media/` folder).
 header:
   caption: ""
   image: ""
-date: 2022-03-17T20:01:06.520Z
-draft: true
-featured: true
-image:
-  filename: https://github.com/shlizee/NeuroAI/blob/master/neuroAIlogo.png?raw=true
-  preview_only: true
 ---
-ggwp
