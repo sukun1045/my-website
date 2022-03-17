@@ -1,5 +1,5 @@
 ---
-title: "Audeo: Audio Generation for a Silent Performance Video"
+title: "Audeo: Audio Generation for a Silent Performance Video (NeurIPS 2020)"
 authors:
 - admin
 - Xiulong Liu
