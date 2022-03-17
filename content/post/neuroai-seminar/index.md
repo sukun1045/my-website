@@ -10,7 +10,7 @@ summary: Our [NeuroAI lab](http://faculty.washington.edu/shlizee/) is organizing
   research. Check more details in our [Github
   Repo](https://github.com/shlizee/NeuroAI)! Feel free to contact us if you
   would like to join!
-draft: true
+draft: false
 featured: true
 image:
   filename: https://github.com/shlizee/NeuroAI/blob/master/neuroAIlogo.png?raw=true
