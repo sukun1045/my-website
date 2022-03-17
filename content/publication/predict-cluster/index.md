@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Predict & Cluster: Unsupervised Skeleton Based Action Recognition"
+title: "Predict & Cluster: Unsupervised Skeleton Based Action Recognition (CVPR 2020)"
 authors:
 - admin
 - Xiulong Liu
