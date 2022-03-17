@@ -1,5 +1,5 @@
 ﻿---
-title: "How Does it Sound? Generation of Rhythmic Soundtracks for Human Movement Videos"
+title: "How Does it Sound? Generation of Rhythmic Soundtracks for Human Movement Videos (NeurIPS 2021)"
 authors:
 - admin
 - Xiulong Liu
