@@ -1,5 +1,5 @@
 ---
-title: NEWS (Feb 2023) One Accepted Paper in ICCV 2023!
+title: NEWS (Jul 2023) One Accepted Paper in ICCV 2023!
 date: 2023-07-24T22:23:20.209Z
 draft: false
 featured: false
