@@ -1,20 +1,20 @@
 ---
 title: Kun Su
-role: PhD student in ECE
+role: Software Engineer | PhD
 avatar_filename: avatar.jpg
 organizations:
-  - name: University of Washington-Seattle
-    url: http://www.washington.edu/
+  - name: Google Research
+    url: [http://www.washington.edu/](https://research.google/)
 superuser: true
 authors:
   - admin
 bio: My research interests include machine learning, computer vision,
   audio/music application, robotics.
 interests:
-  - deep learning
+  - multi-modal learning
+  - audio/music generation
   - computer vision
-  - audio signal processing
-  - cross-modal application
+  
 social:
   - icon: envelope
     icon_pack: fas
@@ -35,7 +35,7 @@ education:
   courses:
     - course: PhD in Electrical & Computer Engineering
       institution: University of Washington-Seattle
-      year: 2019-Present
+      year: 2019-2024
     - course: M.S. in Electrical & Computer Engineering
       institution: University of Washington-Seattle
       year: 2017-2019
@@ -46,4 +46,4 @@ email: ""
 user_groups:
   - ""
 ---
-I am a fifth-year Ph.D. student of Electrical & Computer Engineering at the University of Washington NeuroAI Lab advised by Prof. [Eli Shlizerman](http://faculty.washington.edu/shlizee/). My research interests are at the intersection of deep learning, computer vision and audio/music signal processing. I received M.S. in ECE at UW in 2019. Prior to that, I received a B.S. in Electrical Engineering and Computer System Engineering at Rensselaer Polytechnic Institute (RPI). During my undergrad, I did research with Prof. [Wencen Wu](https://sites.google.com/a/sjsu.edu/wencen-wu/home) on control and robotics.
+I am a software engineer at Google Research. Before joining Google, I was a Ph.D. student at the University of Washington NeuroAI Lab advised by Prof. [Eli Shlizerman](http://faculty.washington.edu/shlizee/). My research interests are at the intersection of deep learning, computer vision and audio/music signal processing. I received M.S. in ECE at UW in 2019. Prior to that, I received a B.S. in Electrical Engineering and Computer System Engineering at Rensselaer Polytechnic Institute (RPI). During my undergrad, I did research with Prof. [Wencen Wu](https://sites.google.com/a/sjsu.edu/wencen-wu/home) on control and robotics.
