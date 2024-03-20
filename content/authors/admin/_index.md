@@ -4,7 +4,7 @@ role: Software Engineer | PhD
 avatar_filename: avatar.jpg
 organizations:
   - name: Google Research
-    url: [http://www.washington.edu/](https://research.google/)
+    url: https://research.google/
 superuser: true
 authors:
   - admin
